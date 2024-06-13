@@ -4,10 +4,21 @@ Esse projeto tem como objetivo criar um site de farmácia de fácil usabilidade 
 
 ## Índice
 
-- [Instalação](#Instalação)
-- [Uso](#Uso)
-- [Autores](#Autores)
-- [Agradecimentos](#Agradecimentos)
+- [Tecnologias Utilizadas](Tecnologias)
+- [Instalação](Instalação)
+- [Uso](Uso)
+- [Autores](Autores)
+- [Agradecimentos](Agradecimentos)
+
+
+## Tecnologias Utilizadas
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## Instalação
 
