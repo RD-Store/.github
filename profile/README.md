@@ -1,14 +1,13 @@
-# RDstore
+# RDstore 🏥
 
 Esse projeto tem como objetivo criar um site de farmácia de fácil usabilidade para o usuário e melhor gerenciamento de vendas e estoque para o gestor, ele foi desenvolvido como um projeto de finalização de curso para o programa Quero Ser Dev promovido pela empresa RDsaúde e ADA.
 
 ## Índice
-
-- [Tecnologias Utilizadas](Tecnologias)
-- [Instalação](Instalação)
-- [Uso](Uso)
-- [Autores](Autores)
-- [Agradecimentos](Agradecimentos)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Autores](#autores)
+- [Agradecimentos](#agradecimentos)
 
 
 ## Tecnologias Utilizadas
@@ -18,6 +17,7 @@ Esse projeto tem como objetivo criar um site de farmácia de fácil usabilidade 
  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
 ## Instalação
@@ -37,7 +37,7 @@ Passos para instalar o projeto localmente:
    ```sh
    git clone https://github.com/RD-Store/rd-store-frontend.git
 
-## Uso
+## Uso 
 
 Passos para rodar nosso projeto:
 
